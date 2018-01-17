@@ -2,4 +2,6 @@
     <string name="app_name">BMI Calculator</string>
     <string name="mytitle">BMI APP</string>
     <string name="bmi_extra">BMI_EXTRA</string>
+    <string name="age_extra">AGE_EXTRA</string>
+    <string name="gender_extra">GENDER_EXTRA</string>
 </resources>
